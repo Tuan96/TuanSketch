@@ -1,6 +1,6 @@
 # Tuan96 | TuanSketch
 
-This is TuanSketch, where you can draw anything you want using your mouse on a customizable grid. The app also has Light Mode, Dark Mode, and Random Color features. 
+This is TuanSketch, where you can draw anything you want using your mouse on a customizable grid. The app also has Light Mode, Dark Mode, and Random Color features. This works best on PC. 
 Live version: https://tuan96.github.io/TuanSketch/
 
 ## Features
