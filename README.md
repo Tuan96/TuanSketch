@@ -1,7 +1,7 @@
 # Tuan96 | TuanSketch
 
 This is TuanSketch, where you can draw anything you want on a customizable grid. The app also has Light Mode, Dark Mode, and Random Color features. 
-You can also try the live version here: https://tuan96.github.io/TuanSketch/
+Live version: https://tuan96.github.io/TuanSketch/
 
 ## Features
 - Customization: You can customize the grid size anywhere from 2x2 up to 100x100. 
