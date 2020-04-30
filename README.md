@@ -1,17 +1,16 @@
 # Tuan96 | TuanSketch
 
-This is TuanSketch.
+This is TuanSketch, where you can draw anything you want on a customizable grid. The app also has Light Mode, Dark Mode, and Random Color features. 
 
 ## Installation
 
-After you clone or download the code, open the index.html in your selected browser to get started.<br/> 
-You can also try the live version here: https://tuan96.github.io/rock-paper-scissors/
+You can also try the live version here: https://tuan96.github.io/TuanSketch/
 
-## How To Play
-
-You can find the rules here: https://en.wikipedia.org/wiki/Rock_paper_scissors<br/>
-Each winning hand equals 1 point. Draw equals 0 point. Whoever gets 5 first wins.<br/>
-The result will appear on the user's interface as well as within the console (Dev Tools). 
+## Features
+- Customization: You can customize the grid size anywhere from 2x2 up to 100x100. 
+- Light Mode: The default color of the web app is White - Dark Green, so you can toggle this button to change the color to Black - Green.
+- Clear: This returns you to the default color (Dark Mode).
+- Random Color: This will generate random color on your grid. 
 
 ## Built With
 
@@ -23,5 +22,5 @@ Tuan Nguyen
 
 ## Thoughts
 
-This is a simple project that I built to learn more about JavaScript. Any feedback is greatly appreciated. Thank you. 
+This is another simple project that I built to learn more about JavaScript. Any feedback is greatly appreciated. Thank you. 
 
