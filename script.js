@@ -4,7 +4,6 @@ let container = document.getElementById('container');
 let customize = document.querySelector('#customize');
 customize.addEventListener('click', function() {
     customGrid();
-    defaultColor();
 });
 
 let clear = document.querySelector('#clear');
@@ -61,12 +60,18 @@ function customGrid() {
                 container.removeChild(divCreated);
             });
         defaultGrid(size);
-        defaultColor();
-    } 
+        if (document.body.style.backgroundColor == 'white') {
+            lightMode();
+        } else {
+            defaultColor();
+        }
+    }
 }
 
 // Clear grid
 function clearGrid() {
+    let text = document.getElementById('text');
+    text.style.color = 'white';
     document.body.style.background = '#2f3437';
     let removeDiv = document.querySelectorAll('.divCreated');
     removeDiv.forEach(divCreated => {
@@ -91,6 +96,8 @@ function randomColor() {
 // Light mode
 function lightMode() {
     let divColor = document.querySelectorAll('.divCreated');
+    let text = document.getElementById('text');
+    text.style.color = 'black';
     document.body.style.background = 'white';
     divColor.forEach(divCreated => {
         divCreated.style.backgroundColor = 'white';
