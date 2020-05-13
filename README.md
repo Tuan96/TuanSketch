@@ -19,5 +19,5 @@ Tuan Nguyen
 
 ## Thoughts
 
-This is another simple project that I built to learn more about JavaScript. Any feedback is greatly appreciated. Thank you. 
+This is another simple project that I built to learn more about JavaScript. Any feedback is greatly appreciated.  
 
