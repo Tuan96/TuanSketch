@@ -19,5 +19,9 @@ Tuan Nguyen
 
 ## Thoughts
 
-This is another simple project that I built to learn more about JavaScript. Any feedback is greatly appreciated.  
+This is another simple project that I built to learn more about JavaScript. Any feedback is greatly appreciated. 
+
+## Demo
+I drew this using my laptop touchscreen. 
+https://imgur.com/5paEIrD
 
